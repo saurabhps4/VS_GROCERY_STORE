@@ -1,2 +1,2 @@
-# VS_GROCERY_STORE
-frontend project
+# online-grocery-portal
+online grocery portal using html,css and js only frontend project
